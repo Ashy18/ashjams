@@ -46,7 +46,7 @@
 .x6 {
     left: 33%;
     opacity: 1;
-    -webkit-animation: moveclouds 2s linear infinite, swayWays 1s ease-in-out infinite alternate;
+    -webkit-animation: moveclouds 5s linear infinite, swayWays 1s ease-in-out infinite alternate;
     animation: moveclouds 10s linear infinite, swayWays 9s ease-in-out infinite alternate;
 }
 @-webkit-keyframes moveclouds {
@@ -192,13 +192,13 @@
         background-color: #ff009e;
     }
     #bg6{
-        background-color: 	#ff819f;
+        background-color: #ff819f;
     }
     #bg7{
-        background-color: 	#ff819f;
+        background-color: #ff819f;
     }
     #bg8{
-        background-color: 	#ff819f;
+        background-color: #ff819f;
     }
     .hide{
         font-size: 0px;
