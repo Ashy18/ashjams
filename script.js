@@ -4,7 +4,7 @@ const titleElement = document.querySelector(".title");
 const buttonsContainer = document.querySelector(".buttons");
 const yesButton = document.querySelector(".btn--yes");
 const noButton = document.querySelector(".btn--no");
-const catImg = document.querySelector(".kuromi-img");
+const catImg = document.querySelector(".kuromi-gif");
 
 const MAX_IMAGES = 5;
 
